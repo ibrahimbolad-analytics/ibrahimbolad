@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Data%20Analyst&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Data%20Analyst%20|%20BI%20Specialist&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # Hi 👋 I'm Ibrahim
 
@@ -77,7 +77,7 @@ My approach combines **technical precision + business understanding + clean desi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,figma,azure" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,figma,azure,power-bi,microsoft-excel,sql" />
 <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
 <img src="https://img.icons8.com/color/96/sql.png" width="60"/>
