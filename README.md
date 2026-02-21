@@ -77,7 +77,7 @@ My approach combines **technical precision + business understanding + clean desi
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,figma,azure,power-bi,microsoft-excel,sql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,figma,azure" />
 <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
 <img src="https://img.icons8.com/color/96/sql.png" width="60"/>
